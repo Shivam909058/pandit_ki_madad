@@ -1,0 +1,8 @@
+flask
+flask-cors
+pandas
+google-api-python-client
+joblib
+pickle
+numpy
+# pip install -r requirements.txt
